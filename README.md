@@ -5,7 +5,7 @@ This repository showcases my data analytics projects, demonstrating skills in SQ
 
   **COVID-19 Data Exploration** – Performed data exploration using SQL, analyzing key trends and insights. Then, leveraged Power BI to visualize the results effectively.
 
-  **COVID-19 Dashboards** – Created visual representations of interesting patterns discovered during data exploration, focusing on impactful insights.
+  **HR Dashboard** – Created a dashboard for HR data
 
   **Nashville Housing Data Cleaning** – Read a CSV file into a Pandas DataFrame using Jupyter Notebook, then connected to MySQL to store and clean the data entirely using SQL.
 
